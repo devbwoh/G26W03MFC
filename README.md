@@ -16,3 +16,4 @@ https://nano5.notion.site/Week05-Collection-1e5daf211d4283a5990001cf1787d88f
 
 
 <img width="592" height="420" alt="image" src="https://github.com/user-attachments/assets/073628b5-d958-44d9-99e4-64555b42ab4d" />
+<img width="592" alt="image" src="https://github.com/user-attachments/assets/70b34cb4-c2ed-4e41-8b7d-68f9385c66d5" />
